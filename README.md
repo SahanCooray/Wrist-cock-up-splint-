@@ -1,5 +1,5 @@
 # 🖐️ 3D-Printed Wrist Cock-Up Splint  
-Custom-designed using Geomagic Freeform + Haptic Device
+Custom-designed using Geomagic Freeform Plus + Haptic Device
 
 ---
 
@@ -10,16 +10,16 @@ The splint was printed using **PETG** for strength, flexibility, and patient com
 
 ---
 
-## 🎥 Design Process Video  
-📽️ *Watch the complete design workflow in Geomagic Freeform:*  
-![video](assets/design_process_video.mp4)
+## 🎥 Design Process  
+ 
+![](assets/design_process.png)
 
 
 
 ---
 
 ## 🧰 Tools & Materials  
-- **Modeling Software:** Geomagic Freeform 2019  
+- **Modeling Software:** Geomagic Freeform Plus 2019  
 - **Hardware:** 3D Systems Haptic Device  
 - **Printing Method:** FDM  
 - **Material:** PETG  
