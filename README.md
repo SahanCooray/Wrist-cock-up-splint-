@@ -12,8 +12,9 @@ The splint was printed using **PETG** for strength, flexibility, and patient com
 
 ## 🎥 Design Process Video  
 📽️ *Watch the complete design workflow in Geomagic Freeform:*  
-`assets/design_process_video.mp4`  
-*(Locally viewable or can be linked to a hosted platform)*
+![video](assets/design_process_video.mp4)
+
+
 
 ---
 
@@ -41,7 +42,7 @@ The splint was printed using **PETG** for strength, flexibility, and patient com
 ### 🔄 Before & After Hand Positioning  
 | Neutral Wrist | 25° Extended Wrist |
 |---------------|--------------------|
-| ![Before](Assets/hand_neutral.png) | ![After](Assets/hand_extended.png) |
+| ![Before](assets/hand_neutral.png) | ![After](assets/hand_extended.png) |
 
 ---
 
@@ -53,6 +54,6 @@ The splint was printed using **PETG** for strength, flexibility, and patient com
 ### 🛠️ Final 3D Printed Splint  
 | Front View | Side View |
 |------------|-----------|
-| ![Front](assets/printed_front.png) | ![Side](assets/printed_side.png) |
+| ![Front](assets/printed_front.jpeg) | ![Side](assets/printed_side.jpeg) |
 
 
