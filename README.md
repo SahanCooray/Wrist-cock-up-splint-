@@ -41,7 +41,7 @@ The splint was printed using **PETG** for strength, flexibility, and patient com
 ### 🔄 Before & After Hand Positioning  
 | Neutral Wrist | 25° Extended Wrist |
 |---------------|--------------------|
-| ![Before](assets/hand_neutral.png) | ![After](assets/hand_extended.png) |
+| ![Before](Assets/hand_neutral.png) | ![After](Assets/hand_extended.png) |
 
 ---
 
